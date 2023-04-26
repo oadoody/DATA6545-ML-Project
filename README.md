@@ -1,5 +1,5 @@
 # Data6545: Final ML Project
-![BANK FRAUD]([[http://url/to/img.png](https://media.istockphoto.com/id/1066312852/vector/concept-of-fund-banking-robbery.jpg?s=612x612&w=0&k=20&c=WrinGOPGdmstDIXphgqUrfcEh0cakgzSxsAY6VSBQzA=)](https://media.istockphoto.com/id/1066312852/vector/concept-of-fund-banking-robbery.jpg?s=612x612&w=0&k=20&c=WrinGOPGdmstDIXphgqUrfcEh0cakgzSxsAY6VSBQzA=))
+![bank fraud image](https://user-images.githubusercontent.com/120145812/234589973-a0275208-0c9f-451c-9cdd-035fb801760d.jpeg)
 
 Final Project: ____ Data Analysis
 
