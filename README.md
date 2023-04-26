@@ -1,7 +1,7 @@
 # Data6545: Final ML Project
 ![bank fraud image](https://user-images.githubusercontent.com/120145812/234589973-a0275208-0c9f-451c-9cdd-035fb801760d.jpeg)
 
-Final Project: ____ Data Analysis
+Final Project: Bank Fraud Data Analysis
 
 Authors: Olivia Doody, Timothy Boroski, Travis Fuller
  
